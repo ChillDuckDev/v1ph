@@ -1,0 +1,22 @@
+{
+  "CONTRACT_ADDRESS": "0x03b2849c3D2eDef735c05389f2D13199De39bb80",
+  "SCAN_LINK": "https://etherscan.io/address/0x03b2849c3d2edef735c05389f2d13199de39bb80",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "V1 Phunks",
+  "SYMBOL": "V1 Phunks",
+  "MAX_SUPPLY": 10000,
+  "DISPLAY_COST": 0.002,
+  "freetokens":0,
+  "GAS_LIMIT": 145000,
+  "MAX_PER_TX": 10,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/v2-phunks",
+  "Telegram": "https://",
+  "Discord": "https://",
+  "Twitter": "https://",
+  "SHOW_BACKGROUND": false
+}
